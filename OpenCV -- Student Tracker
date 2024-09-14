@@ -1,4 +1,9 @@
 The code:
+This usedcctv camera or other cameras to check if student is travelling to some place purposefully or just roaming about the school grounds. This uses two parameters 
+PIXELS TRAVELLED
+TIME TAKEN RO TRAVEL
+These can be changed on the basis of different cameras. If more explanation or algorithm or flowchart is required please type a comment in the issues area .. THANKS aadi.dey2010@gmail.com
+-- AADIDEY00012561751
 
 # importing the nercessary items
 import cv2 
